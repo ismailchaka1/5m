@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+  	<Item>
+      <modelName>polpatriotf</modelName>
+      <colors>
+	  	<Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+			0
+			0
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            1
+            0
+            134
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="5061" />
+	</Item>
+	<Item>
+      <modelName>polpatriotf2</modelName>
+      <colors>
+	  	<Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+			0
+			0
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            1
+            0
+            134
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="5062" />
+	</Item>
+	</variationData>
+</CVehicleModelInfoVariation>

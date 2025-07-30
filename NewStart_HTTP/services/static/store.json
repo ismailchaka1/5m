@@ -1,0 +1,390 @@
+[
+   {
+      "id": 15,
+      "sort": 1,
+      "type": "sponsor",
+      "name": "Season Membership",
+      "translate": "راعي سيزون",
+      "description": "Premium in-game membership",
+      "image": "/images/vip.png",
+      "color": "#ff2626",
+      "price": 499,
+      "days": 180,
+      "features": [
+         { "type": "vip", "value": "season" },
+         { "type": "money", "value": 5000000 },
+         { "type": "tax", "value": "seaport" },
+         { "type": "tax", "value": "weapons" },
+         { "type": "tax", "value": "jobs" },
+         { "type": "tax", "value": "reservation" },
+         { "type": "discord", "value": "1114650968135573546", "isAlways": true },
+         { "type": "discord", "value": "1165795780456632351" },
+         { "type": "doubleExp", "value": 48, "title": "ضعف الخبرة 48 ساعة" },
+         { "type": "giveExp", "value": 50000 }
+      ],
+      "featuresText": [
+         "$5,000,000 كاش فوري",
+         "إعفاء كامل من رسوم دخول الميناء",
+         "إعفاء من رسوم تجديد رخصة الأسلحة",
+         "إعفاء من رسوم الوظائف العامة",
+         "إعفاء من رسوم فك الحجز",
+         "ضعف الخبرة 48 ساعة",
+         "50,000 خبرة فورية",
+         "تمييز وتلوين المعرف  داخل الخادم وأثناء التحدث",
+         "رول خاص بالديسكورد (الراعي، داعم مميز)",
+         "تفعيل دردشة الداعمين",
+         "لمدة 6 شهور - يسمح بالشراء المتعدد"
+      ]
+   },
+   {
+      "id": 14,
+      "sort": 2,
+      "type": "sponsor",
+      "name": "Strategic Membership",
+      "translate": "راعي استراتيجي",
+      "description": "Premium in-game membership",
+      "image": "/images/vip.png",
+      "color": "#ff9900",
+      "price": 199,
+      "features": [
+         { "type": "vip", "value": "strategic" },
+         { "type": "money", "value": 2500000 },
+         { "type": "tax", "value": "seaport" },
+         { "type": "tax", "value": "weapons" },
+         { "type": "tax", "value": "jobs" },
+         { "type": "tax", "value": "reservation" },
+         { "type": "discord", "value": "1114650968135573546", "isAlways": true },
+         { "type": "discord", "value": "1165795701855375390" },
+         { "type": "doubleExp", "value": 12, "title": "ضعف الخبرة 12 ساعة" },
+         { "type": "giveExp", "value": 20000 }
+      ],
+      "featuresText": [
+         "$2,500,000 كاش فوري",
+         "إعفاء كامل من رسوم دخول الميناء",
+         "إعفاء من رسوم تجديد رخصة الأسلحة",
+         "إعفاء من رسوم الوظائف العامة",
+         "إعفاء من رسوم فك الحجز",
+         "ضعف الخبرة 12 ساعة",
+         "20,000 خبرة فورية",
+         "تمييز وتلوين المعرف  داخل الخادم وأثناء التحدث",
+         "رول خاص بالديسكورد (الراعي، داعم مميز)",
+         "تفعيل دردشة الداعمين",
+         "لمدة 30 يوم - يسمح بالشراء المتعدد"
+      ]
+   },
+   {
+      "id": 1,
+      "sort": 3,
+      "type": "sponsor",
+      "name": "Official Membership",
+      "translate": "راعي رسمي",
+      "color": "#5db6e5",
+      "description": "Premium in-game membership",
+      "image": "/images/vip.png",
+      "price": 149,
+      "features": [
+         { "type": "vip", "value": "official" },
+         { "type": "money", "value": 1800000 },
+         { "type": "tax", "value": "seaport" },
+         { "type": "tax", "value": "weapons" },
+         { "type": "tax", "value": "jobs" },
+         { "type": "tax", "value": "reservation" },
+         { "type": "discord", "value": "1114650968135573546", "isAlways": true },
+         { "type": "discord", "value": "1114647366620938240" },
+         { "type": "doubleExp", "value": 8, "title": "ضعف الخبرة 8 ساعة" },
+         { "type": "giveExp", "value": 10000 }
+      ],
+      "featuresText": [
+         "$1,800,000 كاش فوري",
+         "إعفاء كامل من رسوم دخول الميناء",
+         "إعفاء من رسوم تجديد رخصة الأسلحة",
+         "إعفاء من رسوم الوظائف العامة",
+         "إعفاء من رسوم فك الحجز",
+         "ضعف الخبرة 8 ساعة",
+         "10,000 خبرة فورية",
+         "تمييز وتلوين المعرف  داخل الخادم وأثناء التحدث",
+         "رول خاص بالديسكورد (الراعي، داعم مميز)",
+         "تفعيل دردشة الداعمين",
+         "لمدة 30 يوم - يسمح بالشراء المتعدد"
+      ]
+   },
+   {
+      "id": 2,
+      "sort": 4,
+      "type": "sponsor",
+      "name": "Diamond Membership",
+      "translate": "راعي ألماسي",
+      "color": "#4b839e",
+      "description": "Premium in-game membership",
+      "image": "/images/vip.png",
+      "price": 99,
+      "features": [
+         { "type": "vip", "value": "diamond" },
+         { "type": "money", "value": 1350000 },
+         { "type": "tax", "value": "seaport" },
+         { "type": "tax", "value": "weapons" },
+         { "type": "tax", "value": "jobs" },
+         { "type": "tax", "value": "reservation" },
+         { "type": "discord", "value": "1114647832461316178", "isAlways": true },
+         { "type": "discord", "value": "1114647378876710973" },
+         { "type": "doubleExp", "value": 6, "title": "ضعف الخبرة 6 ساعة" }
+      ],
+      "featuresText": [
+         "$1,350,000 كاش فوري",
+         "إعفاء كامل من رسوم دخول الميناء",
+         "إعفاء من رسوم الوظائف العامة",
+         "إعفاء من رسوم تجديد رخصة الأسلحة",
+         "إعفاء من رسوم فك الحجز",
+         "ضعف الخبرة 6 ساعة",
+         "تمييز وتلوين المعرف  داخل الخادم وأثناء التحدث",
+         "رول خاص بالديسكورد (الراعي، الداعم)",
+         "تفعيل دردشة الداعمين",
+         "لمدة 30 يوم - يسمح بالشراء المتعدد"
+      ]
+   },
+   {
+      "id": 3,
+      "sort": 5,
+      "type": "sponsor",
+      "name": "Platinum Membership",
+      "translate": "راعي بلاتيني",
+      "description": "Premium in-game membership",
+      "color": "#9c6eaf",
+      "image": "/images/vip.png",
+      "price": 74,
+      "features": [
+         { "type": "vip", "value": "platinum" },
+         { "type": "money", "value": 1000000 },
+         { "type": "tax", "value": "seaport" },
+         { "type": "tax", "value": "reservation" },
+         { "type": "discord", "value": "1114647385264640131" },
+         { "type": "discord", "value": "1114647832461316178", "isAlways": true },
+         { "type": "doubleExp", "value": 3, "title": "ضعف الخبرة 3 ساعات" }
+      ],
+      "featuresText": [
+         "$1,000,000 كاش فوري",
+         "إعفاء كامل من رسوم دخول الميناء",
+         "إعفاء من رسوم فك الحجز",
+         "ضعف الخبرة 3 ساعات",
+         "تمييز المعرف داخل الخادم وأثناء التحدث",
+         "رول خاص بالديسكورد (الراعي، داعم)",
+         "تفعيل دردشة الداعمين",
+         "لمدة 30 يوم - يسمح بالشراء المتعدد"
+      ]
+   },
+   {
+      "id": 4,
+      "sort": 6,
+      "type": "sponsor",
+      "name": "Golden Membership",
+      "translate": "راعي ذهبي",
+      "description": "Premium in-game membership",
+      "image": "/images/vip.png",
+      "price": 49,
+      "features": [
+         { "type": "vip", "value": "gold" },
+         { "type": "money", "value": 650000 },
+         { "type": "tax", "value": "seaport" },
+         { "type": "tax", "value": "reservation" },
+         { "type": "discord", "value": "1114647388209029252" },
+         { "type": "discord", "value": "1114647832461316178", "isAlways": true }
+      ],
+      "featuresText": [
+         "$650,000 كاش فوري",
+         "إعفاء كامل من رسوم دخول الميناء",
+         "إعفاء من رسوم فك الحجز",
+         "تمييز المعرف داخل الخادم وأثناء التحدث",
+         "رول خاص بالديسكورد (الراعي، الداعم)",
+         "تفعيل دردشة الداعمين",
+         "لمدة 30 يوم - يسمح بالشراء المتعدد"
+      ]
+   },
+   {
+      "id": 5,
+      "sort": 7,
+      "type": "sponsor",
+      "name": "Silver Membership",
+      "translate": "راعي فضي",
+      "description": "Premium in-game membership",
+      "image": "/images/vip.png",
+      "price": 34,
+      "days": 21,
+      "features": [
+         { "type": "vip", "value": "silver" },
+         { "type": "money", "value": 350000 },
+         { "type": "tax", "value": "seaport" },
+         { "type": "tax", "value": "reservation" },
+         { "type": "discord", "value": "1114647392277504030" },
+         { "type": "discord", "value": "1114647832461316178", "isAlways": true }
+      ],
+      "featuresText": [
+         "$350,000 كاش فوري",
+         "إعفاء كامل من رسوم دخول الميناء",
+         "إعفاء من رسوم فك الحجز",
+         "تمييز المعرف داخل الخادم وأثناء التحدث",
+         "رول خاص بالديسكورد (الراعي، الداعم)",
+         "تفعيل دردشة الداعمين",
+         "لمدة 20 يوم - يسمح بالشراء المتعدد"
+      ]
+   },
+   {
+      "id": 6,
+      "sort": 7,
+      "type": "sponsor",
+      "name": "Bronze Membership",
+      "translate": "راعي برونزي",
+      "description": "Premium in-game membership",
+      "image": "/images/vip.png",
+      "price": 14,
+      "days": 14,
+      "features": [
+         { "type": "vip", "value": "bronze" },
+         { "type": "money", "value": 150000 },
+         { "type": "tax", "value": "seaport" },
+         { "type": "tax", "value": "reservation" },
+         { "type": "discord", "value": "1114647402922659840" },
+         { "type": "discord", "value": "1114647832461316178", "isAlways": true }
+      ],
+      "featuresText": [
+         "$150,000 كاش فوري",
+         "إعفاء كامل من رسوم دخول الميناء",
+         "إعفاء من رسوم فك الحجز",
+         "تمييز المعرف داخل الخادم وأثناء التحدث",
+         "رول خاص بالديسكورد (الراعي، الداعم)",
+         "تفعيل دردشة الداعمين",
+         "لمدة 14 يوم - يسمح بالشراء المتعدد"
+      ]
+   },
+   {
+      "id": 7,
+      "type": "packages",
+      "name": "Basic starter package",
+      "translate": "باقة بداية أساسية",
+      "description": "Special in-game items",
+      "image": "/images/package1.png",
+      "price": 19,
+      "features": [
+         { "type": "money", "value": 150000 },
+         { "type": "vehicle", "value": "contender" },
+         { "type": "vehicle", "value": "microlight" },
+         { "type": "vehicle", "value": "seashark3" }
+      ],
+      "featuresText": [
+         "$150,000 كاش فوري",
+         "سيارة Contender بحمولة 40 كجم",
+         "طائرة شراعية",
+         "قارب جيت سكي",
+         "تتخطي العدد المسموح لامتلاك المركبات",
+         "يسمح بالشراء المتعدد"
+      ]
+   },
+   {
+      "id": 8,
+      "type": "packages",
+      "name": "Special starter package",
+      "translate": "باقة بداية مميزة",
+      "description": "Special in-game items",
+      "image": "/images/package2.png",
+      "price": 34,
+      "features": [
+         { "type": "money", "value": 350000 },
+         { "type": "vehicle", "value": "contender" },
+         { "type": "vehicle", "value": "dinghy2" },
+         { "type": "vehicle", "value": "microlight" }
+      ],
+      "featuresText": [
+         "$350,000 كاش فوري",
+         "سيارة Contender بحمولة 40 كجم",
+         "قارب Dinghy حمولة 40 كجم",
+         "طائرة شراعية",
+         "تتخطي العدد المسموح لامتلاك المركبات",
+         "يسمح بالشراء المتعدد"
+      ]
+   },
+   {
+      "id": 9,
+      "type": "packages",
+      "name": "Businessman Package",
+      "translate": "باقة رجل أعمال",
+      "description": "Special in-game items",
+      "image": "/images/package3.png",
+      "price": 249,
+      "features": [
+         { "type": "money", "value": 1500000 },
+         { "type": "vehicle", "value": "vantage" },
+         { "type": "vehicle", "value": "jetmax" },
+         { "type": "vehicle", "value": "bati" },
+         { "type": "vehicle", "value": "buzzard2" },
+         { "type": "discord", "value": "1114650968135573546", "isAlways": true },
+         { "type": "doubleExp", "value": 12, "title": "ضعف الخبرة 12 ساعة" }
+      ],
+      "featuresText": [
+         "$1,500,000 كاش فوري",
+         "سيارة Aston Vantage الرياضية السريعة",
+         "طائرة Buzzard بحمولة 40 كجم",
+         "قارب Jetmax بحمولة 120 كجم",
+         "دراجة Bati الرياضية السريعة",
+         "تتخطي العدد المسموح لامتلاك المركبات",
+         "رول داعم مميز بالديسكورد",
+         "ضعف الخبرة 12 ساعات",
+         "يسمح بالشراء المتعدد"
+      ]
+   },
+   {
+      "id": 11,
+      "type": "level",
+      "name": "Essential XP boost",
+      "translate": "ضعف الخبرة أساسي",
+      "description": "Item to boost in-game XP",
+      "image": "/images/exp.png",
+      "price": 19,
+      "features": [
+         { "type": "doubleExp", "value": 6, "title": "ضعف الخبرة 6 ساعات" }
+      ],
+      "featuresText": [
+         "ضعف الخبرة لمدة 6 ساعات",
+         "يمكنك متابعة الضعف من خلال اف 1",
+         "يمكن إيقاف العد عند إغلاقك للسيرفر",
+         "الإيقاف المؤقت عند وجود الضعف عام",
+         "يمكن شراء ضعف الخبرة أكثر من مرة ولن يعمل إلا بعد انتهاء أي ضعف سابق"
+      ]
+   },
+   {
+      "id": 12,
+      "type": "level",
+      "name": "Medium XP boost",
+      "translate": "ضعف الخبرة متوسط",
+      "description": "Item to boost in-game XP",
+      "image": "/images/exp.png",
+      "price": 34,
+      "features": [
+         { "type": "doubleExp", "value": 12, "title": "ضعف الخبرة 12 ساعة" }
+      ],
+      "featuresText": [
+         "ضعف الخبرة لمدة 12 ساعة",
+         "يمكنك متابعة الضعف من خلال اف 1",
+         "يمكن إيقاف العد عند إغلاقك للسيرفر",
+         "الإيقاف المؤقت عند وجود الضعف عام",
+         "يمكن شراء ضعف الخبرة أكثر من مرة ولن يعمل إلا بعد انتهاء أي ضعف سابق"
+      ]
+   },
+   {
+      "id": 13,
+      "type": "level",
+      "name": "Premium XP boost",
+      "translate": "ضعف الخبرة مميز",
+      "description": "Item to boost in-game XP",
+      "image": "/images/exp.png",
+      "price": 59,
+      "features": [
+         { "type": "doubleExp", "value": 24, "title": "ضعف الخبرة 24 ساعة" }
+      ],
+      "featuresText": [
+         "ضعف الخبرة لمدة 24 ساعة",
+         "يمكنك متابعة الضعف من خلال اف 1",
+         "يمكن إيقاف العد عند إغلاقك للسيرفر",
+         "الإيقاف المؤقت عند وجود الضعف عام",
+         "يمكن شراء ضعف الخبرة أكثر من مرة ولن يعمل إلا بعد انتهاء أي ضعف سابق"
+      ]
+   }
+]

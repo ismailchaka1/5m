@@ -1,0 +1,18 @@
+<svg id="App_Icon_Apple_Mail_" data-name="App Icon / Apple / Mail /" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d63f0"/>
+      <stop offset="1" stop-color="#1ad5fd"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle" width="740" height="482" rx="58" fill="#d8d8d8" opacity="0"/>
+    </clipPath>
+  </defs>
+  <rect id="Origin_Color" data-name="Origin Color" width="1024" height="1024" fill="url(#linear-gradient)"/>
+  <g id="Apple_Mail" data-name="Apple Mail" transform="translate(142 271)">
+    <rect id="Rectangle-2" data-name="Rectangle" width="740" height="482" rx="58" fill="#d8d8d8" opacity="0"/>
+    <g id="Apple_Mail-2" data-name="Apple Mail" clip-path="url(#clip-path)">
+      <path id="Shape" d="M18.5,482c-1.234,0-3.7,0-4.934-1.235L233.1,261.026l46.867,48.146c50.566,51.848,130.733,51.848,181.3,0l46.867-48.146,218.3,219.74c-1.233,0-3.7,1.235-4.933,1.235ZM0,458.545V24c0-2.469,0-4.938,1.233-6.172,1.234,2.469,218.3,227.147,218.3,227.147l-218.3,218.5C0,462.248,0,459.779,0,458.545ZM520.466,242.509S737.533,17.832,738.767,15.362C740,16.6,740,19.066,740,21.535V462.248ZM293.533,286.951,13.567.549c-1.233-1.235,714.1,0,714.1,0L447.7,286.951a109.4,109.4,0,0,1-77.546,32.405A106.286,106.286,0,0,1,293.533,286.951Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

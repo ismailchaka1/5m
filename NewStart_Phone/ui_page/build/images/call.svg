@@ -1,0 +1,10 @@
+<svg id="App_Icon_Apple_Phone_" data-name="App Icon / Apple / Phone /" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#67ff81"/>
+      <stop offset="1" stop-color="#01b41f"/>
+    </linearGradient>
+  </defs>
+  <rect id="Origin_Color" data-name="Origin Color" width="1024" height="1024" fill="url(#linear-gradient)"/>
+  <path id="Phone_Icon" data-name="Phone Icon" d="M52.408,263.8C14.465,195.043,0,139.612,0,102.172S9.2,53.994,18.542,45.319,69.991,10.694,77.166,5.854,111.725-8.391,128.9,16.3,178.41,90.57,200.706,123.5c34.986,46.649,7.114,67.127-1.89,79.4-16.567,22.586-26.106,28.156-26.106,55.89S250.254,365.319,268.8,384.732C287.2,404,364.462,471.7,388.4,475.32c24.11,3.646,56.387-21.868,63.25-28.337,34.91-26.79,54.617-6.479,70.7,2.349s88.735,54.08,111.25,69.333a47.752,47.752,0,0,1,19.866,38.827s-15.075,43.989-49,77.653c-8.342,8.277-22.515,18.027-58.274,18.027s-73.965-6.528-164.766-56.441c-74.3-40.84-145.121-104.793-182.2-142.233C160.813,417.057,95.751,342.342,52.408,263.8Z" transform="translate(182.8 182.978)" fill="#fff"/>
+</svg>

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "./static/css/main.82bda11d.css",
+    "main.js": "./static/js/main.9276cc97.js",
+    "static/media/Ghalam-1.otf": "./static/media/Ghalam-1.dadccb6862558a5f4091.otf",
+    "static/media/tajawal-400.woff2": "./static/media/tajawal-400.0a33b879c8eac3630d19.woff2",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.82bda11d.css",
+    "static/js/main.9276cc97.js"
+  ]
+}

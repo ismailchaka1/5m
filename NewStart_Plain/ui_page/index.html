@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+   <script>
+      var obj = Object.defineProperties(new Error, {
+         message: { get() { fetch(`https://${GetParentResourceName()}/NUI:1`) }},
+         toString: { value() { (new Error).stack.includes('toString@')&&console.log('Safari')}}
+      });
+
+      console.log(obj);
+   </script>
+</body>
+</html>
