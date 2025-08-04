@@ -59,13 +59,13 @@ module.exports = {
       gameURL, webURL,
       website: 'http://localhost:3000',
       hostname: '192.168.0.112',
-      botToken: 'MTExMTI1NDk2MzM2OTI5OTk5OQ.Gin-GL.Z1iFj2bv2Ilnut0C30n9QHeTnI212NQhoZYftE',
+      botToken: '',
       appDiscordID: '1111254963369299999'
    } : {
       gameURL, webURL,
       website: 'https://newstart.one',
       hostname: 'newstart1.online',
-      botToken: 'OTMwNTQ5MDY3NDg0ODk3MzAw.GmeNXJ.521CXKjOmlcm_loncSmauRYKmJ21LHqmMwzQcY',
+      botToken: '',
       appDiscordID: '930549067484897300'
    }),
    givePlayerBan, imgResize, getPlayerIDfromGame
